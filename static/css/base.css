@@ -4,10 +4,12 @@ html {
 }
 
 body {
-    background: url('/images/dreamstime_xs_127382644.jpg') no-repeat center center fixed;
-    /*background: url('/images/shutterstock_1316246027.pdf') no-repeat center center fixed;*/
-    background-size: cover;
-    height: calc(100vh - 164px);
+    /*background: url('/static/images/dreamstime_xs_127382644.jpg') no-repeat center center fixed;*/
+    /*background: url('/static/images/shutterstock_1316246027.pdf') no-repeat center center fixed;*/
+    background: url('/static/images/shutterstock_141950908.jpg') no-repeat center center fixed;
+    background-size: 70%;
+    height: auto;
+    /*height: calc(100vh - 164px);*/
     color: #555;
     font-family: 'Poppins';
 }
