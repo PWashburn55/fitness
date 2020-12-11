@@ -2,4 +2,17 @@ from django.contrib import admin
 from .models import Plan
 
 # Register your models here.
-admin.site.register(Plan)
+
+class PlanAdmin(admin.ModelAdmin):
+    list_display = (
+        'sku',
+        'name',
+        'description',
+        'price',
+        'image',
+
+    )
+
+    ordering = ('sku',)
+
+admin.site.register(Plan, PlanAdmin)

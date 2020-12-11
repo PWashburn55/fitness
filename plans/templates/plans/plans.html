@@ -3,7 +3,7 @@
 {% load static %}
 
 {% block page_header %}
-    <div class="container header-container">
+    <div class="container">
         <div class="row">
             <div class="col">
             </div>
@@ -14,10 +14,9 @@
 {% block content %}
     <div class="container">
         <div class="row">
-            <div class="col my-auto"></div>
-                <h1 class="display-4 logo-font text-black">
-                Achieve your fitness goals, even if you're busy.
-                </h1>
+            <div class="col ">
+                {{ plans }}
+            </div>  
         </div>
     </div>
 {% endblock %}
