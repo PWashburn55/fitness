@@ -1,0 +1,41 @@
+[{
+	"pk": 1,
+	"model": "plans.plan",
+	"fields": {
+		"sku": "000001",
+		"name": "Body Weight Mini Workouts",
+		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"price": 15.00,
+		"image": "jonathan-borba-IrQPTQs7nQQ-unsplash.jpg"
+    }
+   }, {
+	"pk": 2,
+	"model": "plans.plan",
+	"fields": {
+		"sku": "000002",
+		"name": "Exercise Band Mini Workouts",
+		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"price": 15.00,
+		"image": "boy-1867032_640.jpg"
+    }
+   }, {
+	"pk": 3,
+	"model": "plans.plan",
+	"fields": {
+		"sku": "000003",
+		"name": "Yoga Mini Workouts",
+		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"price": 15.00,
+		"image": "minna-hamalainen-H1COmZ4LULc-unsplash.jpg"
+    }
+   }, {
+	"pk": 4,
+	"model": "plans.plan",
+	"fields": {
+		"sku": "000004",
+		"name": "Pilates Mini Workouts",
+		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"price": 15.00,
+		"image": "plank-1327256_640.jpg"
+    }
+   }]
