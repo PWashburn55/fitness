@@ -4,9 +4,9 @@
 	"fields": {
 		"sku": "000001",
 		"name": "Body Weight Mini Workouts",
-		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"description": "Using your own body weight, you will work all the major muscle groups with these 15-minute workouts. For best results, perform these exercises or our other features workouts two or three non-consecutive days per week.",
 		"price": 15.00,
-		"image": "jonathan-borba-IrQPTQs7nQQ-unsplash.jpg"
+		"image": "./media/jonathan-borba-IrQPTQs7nQQ-unsplash.jpg"
     }
    }, {
 	"pk": 2,
@@ -14,9 +14,9 @@
 	"fields": {
 		"sku": "000002",
 		"name": "Exercise Band Mini Workouts",
-		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"description": "Challenge your muscles with elastic bands to build strength and definition. These exercises or our other features workouts should be performed two or three times per week on non-consecutive days.",
 		"price": 15.00,
-		"image": "boy-1867032_640.jpg"
+		"image": "./media/boy-1867032_640.jpg"
     }
    }, {
 	"pk": 3,
@@ -24,9 +24,9 @@
 	"fields": {
 		"sku": "000003",
 		"name": "Yoga Mini Workouts",
-		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"description": "With poses such as the warrior and sun salutations you will target the main muscle groups and improve your flexibility. These workouts  or our other features workouts should be performed at least two or three times per week.",
 		"price": 15.00,
-		"image": "minna-hamalainen-H1COmZ4LULc-unsplash.jpg"
+		"image": "/media/minna-hamalainen-H1COmZ4LULc-unsplash.jpg"
     }
    }, {
 	"pk": 4,
@@ -34,8 +34,8 @@
 	"fields": {
 		"sku": "000004",
 		"name": "Pilates Mini Workouts",
-		"description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
+		"description": "Target your core muscles with these short pilates workouts. The pilates workouts  or our other features workouts should be practiced two or three times per week.",
 		"price": 15.00,
-		"image": "plank-1327256_640.jpg"
+		"image": "/media/plank-1327256_640.jpg"
     }
    }]
