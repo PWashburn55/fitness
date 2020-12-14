@@ -3,9 +3,9 @@
 	"model": "plans.plan",
 	"fields": {
 		"sku": "000001",
-		"name": "Body Weight Mini Workouts",
-		"description": "Using your own body weight, you will work all the major muscle groups with these 15-minute workouts. For best results, perform these exercises or our other features workouts two or three non-consecutive days per week.",
-		"price": 15.00,
+		"name": "Resistance Bands",
+		"description": "Work your main muscle groups with these lightweight but surprisingly challenging resistance bands - perfect for working out at home or on the road. Weights sold separately.",
+		"price": 15.90,
 		"image": "./media/jonathan-borba-IrQPTQs7nQQ-unsplash.jpg"
     }
    }, {
@@ -13,29 +13,19 @@
 	"model": "plans.plan",
 	"fields": {
 		"sku": "000002",
-		"name": "Exercise Band Mini Workouts",
-		"description": "Challenge your muscles with elastic bands to build strength and definition. These exercises or our other features workouts should be performed two or three times per week on non-consecutive days.",
-		"price": 15.00,
+		"name": "Hand Weights",
+		"description": "Tone your arms and back with these two-kilogram hand weights. Perfect for home workouts and can also be used in conjunction with toning exercises for the legs and hips.",
+		"price": 24.75,
 		"image": "./media/boy-1867032_640.jpg"
     }
-   }, {
+    }, {
 	"pk": 3,
 	"model": "plans.plan",
 	"fields": {
 		"sku": "000003",
-		"name": "Yoga Mini Workouts",
-		"description": "With poses such as the warrior and sun salutations you will target the main muscle groups and improve your flexibility. These workouts  or our other features workouts should be performed at least two or three times per week.",
-		"price": 15.00,
+		"name": "Exercise Mat",
+		"description": "Cushioned, non-stick mat for yoga, pilates, and abdominal exercises measuring 150 cm by 60 cm and 2 cm thick. Rolls up easily for storage.",
+		"price": 32.95,
 		"image": "/media/minna-hamalainen-H1COmZ4LULc-unsplash.jpg"
     }
-   }, {
-	"pk": 4,
-	"model": "plans.plan",
-	"fields": {
-		"sku": "000004",
-		"name": "Pilates Mini Workouts",
-		"description": "Target your core muscles with these short pilates workouts. The pilates workouts  or our other features workouts should be practiced two or three times per week.",
-		"price": 15.00,
-		"image": "/media/plank-1327256_640.jpg"
-    }
-   }]
+    }]

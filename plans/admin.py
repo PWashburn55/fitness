@@ -3,6 +3,7 @@ from .models import Plan
 
 # Register your models here.
 
+
 class PlanAdmin(admin.ModelAdmin):
     list_display = (
         'sku',
@@ -14,5 +15,6 @@ class PlanAdmin(admin.ModelAdmin):
     )
 
     ordering = ('sku',)
+
 
 admin.site.register(Plan, PlanAdmin)

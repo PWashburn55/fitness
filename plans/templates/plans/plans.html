@@ -15,7 +15,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col text-center mt-3">
-                <h2 class="logo-font">Workout Plans</h2>
+                <h2 class="logo-font">Gear</h2>
                 <hr class="w-50 mb-1">
             </div>
         </div>
@@ -27,11 +27,11 @@
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                             <div class="card h-100 border-0">
                                 {% if product.image %}
-                                <a href="">
+                                <a href="{% url 'plan_detail' plan.id %}">
                                     <img class="card-img-top img-fluid" src="{{ plan.image.url }}" alt="{{ plan.name }}">
                                 </a>
                                 {% else %}
-                                <a href="">
+                                <a href="{% url 'plan_detail' plan.id %}">
                                     <img class="card-img-top img-fluid" src="{{ MEDIA_URL }}noimage.png" alt="{{ plan.name }}">
                                 </a>
                                 {% endif %}
